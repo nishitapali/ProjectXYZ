@@ -1,2 +1,1 @@
 This is component 1.
-Changes made by developer 2.
